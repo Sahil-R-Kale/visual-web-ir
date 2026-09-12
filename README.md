@@ -20,11 +20,13 @@ The benchmark is intended for evaluating retrieval-aware multimodal reasoning, i
 ## Repository Structure
 
 ```
-dataset/
-├── visual_static_dataset/
-│   └── sample images and annotations
-└── visual_dynamic_dataset/
-    └── sample images and annotations
+.
+├── vision_static_dataset/
+│   ├── dataset.jsonl
+│   └── images/
+└── vision_dynamic_dataset/
+    ├── dataset.xlsx
+    └── images/
 ```
 
 ### Static Split
