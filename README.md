@@ -57,6 +57,10 @@ Each sample consists of:
 * a natural language question
 * a reference answer
 
+This repository is a representative sample rather than a complete image release. The
+static annotations include records for WikiArt, iNaturalist, and FGVC Aircraft, but
+only the FGVC Aircraft image subset is included here.
+
 The benchmark is model-agnostic and can be evaluated using any multimodal system supporting image understanding, with or without integrated web search.
 
 ---
