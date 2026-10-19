@@ -51,9 +51,9 @@ The dynamic split contains examples requiring retrieval of information beyond th
 
 ## Usage
 
-Each sample consists of:
+Each annotation contains:
 
-* an image
+* an image path (the image is included only for the bundled subset)
 * a natural language question
 * a reference answer
 
