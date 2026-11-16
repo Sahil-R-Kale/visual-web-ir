@@ -24,6 +24,7 @@ The benchmark is intended for evaluating retrieval-aware multimodal reasoning, i
 ├── vision_static_dataset/
 │   ├── dataset.jsonl
 │   └── images/
+│       └── aircraft/
 └── vision_dynamic_dataset/
     ├── dataset.xlsx
     └── images/
